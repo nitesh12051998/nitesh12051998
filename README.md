@@ -14,13 +14,13 @@ Education 👨‍🎓:
 Masters of Science in Business Analytics at University of California, Davis 
 Bachelor of Technology in Electronics and Communication Engineering at Manipal Institute of Tecnology, MAHE
 
-Experience ⛑:
+Experience 🏢:
 Growth Analyst II at Lion Studios, Applovin (July'23 - Presesnt)
 Data Analyst at ChargePoint (Sep'22 - Jun'23)
 Business Analyst at PlaySimple Games (Jan'20 - Jun'22)
 
 Interests 
-
+:smiley:
 
 I am currently on the lookout for exciting opportunities as a Product Data Scientist or Product Data Analyst, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me.
 
@@ -30,6 +30,5 @@ I am currently on the lookout for exciting opportunities as a Product Data Scien
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
