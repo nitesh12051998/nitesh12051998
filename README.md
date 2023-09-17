@@ -1,6 +1,6 @@
 ### Hi there, Nitesh here 👋
 
-<!--
+<--
 
 Armed with a Business Analytics degree from UC Davis, I bring forth a wealth of experience as a proficient Product & Growth hacker. My forte lies in driving product development and nurturing sustained growth. I am a highly motivated individual with a keen business acumen, relentlessly focused on delivering impactful results. 
 
