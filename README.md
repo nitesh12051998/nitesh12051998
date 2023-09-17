@@ -25,8 +25,8 @@ Interests :white_heart::
   5. Cooking
 
 Aspirations 🌱:
-  1. Working on bringing my idea to life....
-  2. Learn how to play a instrument
+  1. Working on bringing my idea to life...
+  2. Learn to play an instrument...
 
 
-I am currently on the lookout for exciting opportunities as a **Product Data Scientist** or **Product Data Analyst**, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me on [mail](snaganitesh@ucdavis.edu) or [LinkedIn](https://www.linkedin.com/in/niteshsn/)
+I am currently on the lookout for exciting opportunities as a **Product Data Scientist** or **Product Data Analyst**, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me on [Mail](snaganitesh@ucdavis.edu) or [LinkedIn](https://www.linkedin.com/in/niteshsn/)
